@@ -17,6 +17,8 @@
           "tertiary-content": "#eeeeee",
           "timeline-text-secondary-color": "#dddddd",
           "timeline-highlights-color": "#00000030",
-          "reaction-row-button-selected-bg-color": "#b9bbbe"
+          "reaction-row-button-selected-bg-color": "#b9bbbe",
+
+          "username-colors": ["#00ff00", "#0000ff"]
         }
 }

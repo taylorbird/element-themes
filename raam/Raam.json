@@ -19,6 +19,8 @@
           "timeline-highlights-color": "#00000030",
           "reaction-row-button-selected-bg-color": "#b9bbbe",
 
-          "username-colors": ["#00ff00", "#0000ff"]
+          "username-override-colors": {
+            "@taylorlbird:mssj.me": "#0000ff"
+          }
         }
 }

@@ -17,10 +17,6 @@
           "tertiary-content": "#eeeeee",
           "timeline-text-secondary-color": "#dddddd",
           "timeline-highlights-color": "#00000030",
-          "reaction-row-button-selected-bg-color": "#b9bbbe",
-
-          "username-override-colors": {
-            "@taylorlbird:mssj.me": "#0000ff"
-          }
+          "reaction-row-button-selected-bg-color": "#b9bbbe"
         }
 }

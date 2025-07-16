@@ -1,0 +1,43 @@
+{
+  "name": "Ferra",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#34ffd4",
+    "primary-color": "#34ffd4",
+    "warning-color": "#ffb86c",
+    "alert": "#ff5555",
+    "sidebar-color": "#232136",
+    "roomlist-background-color": "#2a273f",
+    "roomlist-text-color": "#e0def4",
+    "roomlist-text-secondary-color": "#6e6a86",
+    "roomlist-highlights-color": "#34ffd4",
+    "roomlist-separator-color": "#44415a",
+    "timeline-background-color": "#232136",
+    "timeline-text-color": "#e0def4",
+    "secondary-content": "#e0def4",
+    "tertiary-content": "#6e6a86",
+    "timeline-text-secondary-color": "#6e6a86",
+    "timeline-highlights-color": "#34ffd4",
+    "reaction-row-button-selected-bg-color": "#393552",
+    "menu-selected-color": "#34ffd4",
+    "focus-bg-color": "#393552",
+    "room-highlight-color": "#34ffd4",
+    "togglesw-off-color": "#44415a",
+    "other-user-pill-bg-color": "#34ffd4",
+    "username-colors": [
+      "#34ffd4",
+      "#ffb86c",
+      "#b8b4d0",
+      "#6e6a86",
+      "#e0def4",
+      "#ff5555",
+      "#8cffba",
+      "#50fa7b"
+    ],
+    "avatar-background-colors": [
+      "#232136",
+      "#34ffd4",
+      "#ffb86c"
+    ]
+  }
+}

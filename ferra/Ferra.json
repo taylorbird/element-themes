@@ -2,42 +2,42 @@
   "name": "Ferra",
   "is_dark": true,
   "colors": {
-    "accent-color":    "#ffa07a", // Coral
-    "primary-color":   "#fecdb2", // Blush
-    "warning-color":   "#f5d76e", // Honey
-    "alert":           "#e06b75", // Ember
-    "sidebar-color":   "#2b292d", // Night
-    "roomlist-background-color": "#383539", // Ash
-    "roomlist-text-color":       "#fecdb2", // Blush
-    "roomlist-text-secondary-color": "#b1b695", // Sage
-    "roomlist-highlights-color":     "#ffa07a", // Coral
-    "roomlist-separator-color":      "#4d424b", // Umber
-    "timeline-background-color":     "#2b292d", // Night
-    "timeline-text-color":           "#fecdb2", // Blush
-    "secondary-content": "#b1b695", // Sage
-    "tertiary-content":  "#d1d1e0", // Mist
-    "timeline-text-secondary-color": "#d1d1e0", // Mist
-    "timeline-highlights-color":     "#f6b6c9", // Rose
-    "reaction-row-button-selected-bg-color": "#6f5d63", // Bark
-    "menu-selected-color":           "#ffa07a", // Coral
-    "focus-bg-color":                "#6f5d63", // Bark
-    "room-highlight-color":          "#ffa07a", // Coral
-    "togglesw-off-color":            "#b1b695", // Sage
-    "other-user-pill-bg-color":      "#f6b6c9", // Rose
+    "accent-color": "#ffa07a",
+    "primary-color": "#fecdb2",
+    "warning-color": "#f5d76e",
+    "alert": "#e06b75",
+    "sidebar-color": "#2b292d",
+    "roomlist-background-color": "#383539",
+    "roomlist-text-color": "#fecdb2",
+    "roomlist-text-secondary-color": "#b1b695",
+    "roomlist-highlights-color": "#ffa07a",
+    "roomlist-separator-color": "#4d424b",
+    "timeline-background-color": "#2b292d",
+    "timeline-text-color": "#fecdb2",
+    "secondary-content": "#b1b695",
+    "tertiary-content": "#d1d1e0",
+    "timeline-text-secondary-color": "#d1d1e0",
+    "timeline-highlights-color": "#f6b6c9",
+    "reaction-row-button-selected-bg-color": "#6f5d63",
+    "menu-selected-color": "#ffa07a",
+    "focus-bg-color": "#6f5d63",
+    "room-highlight-color": "#ffa07a",
+    "togglesw-off-color": "#b1b695",
+    "other-user-pill-bg-color": "#f6b6c9",
     "username-colors": [
-      "#e06b75", // Ember
-      "#f5d76e", // Honey
-      "#ffa07a", // Coral
-      "#f6b6c9", // Rose
-      "#b1b695", // Sage
-      "#6f5d63", // Bark
-      "#d1d1e0", // Mist
-      "#fecdb2"  // Blush
+      "#e06b75",
+      "#f5d76e",
+      "#ffa07a",
+      "#f6b6c9",
+      "#b1b695",
+      "#6f5d63",
+      "#d1d1e0",
+      "#fecdb2"
     ],
     "avatar-background-colors": [
-      "#2b292d", // Night
-      "#b1b695", // Sage
-      "#ffa07a"  // Coral
+      "#2b292d",
+      "#b1b695",
+      "#ffa07a"
     ]
   }
 }

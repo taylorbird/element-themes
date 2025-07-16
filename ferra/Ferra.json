@@ -2,7 +2,7 @@
   "name": "Ferra",
   "is_dark": true,
   "colors": {
-    "accent-color": "#ffa07a",
+    "accent-color": "#2b292d",
     "primary-color": "#fecdb2",
     "warning-color": "#f5d76e",
     "alert": "#e06b75",

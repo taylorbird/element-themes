@@ -1,6 +1,16 @@
 {
   "name": "Ferra",
   "is_dark": true,
+  "fonts": {
+                    "faces": [
+                        {
+                            "font-family": "JetBrains Mono",
+                            "src": [{"url": "/fonts/JetBrainsMono.ttf", "format": "ttf"}]
+                        }
+                    ],
+                    "general": "JetBrains Mono, sans",
+                    "monospace": "'JetBrains Mono', monospace"
+                },
   "colors": {
     "accent-color": "#2b292d",
     "primary-color": "#fecdb2",

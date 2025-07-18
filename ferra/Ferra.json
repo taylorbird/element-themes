@@ -2,15 +2,15 @@
   "name": "Ferra",
   "is_dark": true,
   "fonts": {
-                    "faces": [
-                        {
-                            "font-family": "JetBrains Mono",
-                            "src": [{"url": "/fonts/JetBrainsMono.ttf", "format": "ttf"}]
-                        }
-                    ],
-                    "general": "JetBrains Mono, sans",
-                    "monospace": "'JetBrains Mono', monospace"
-                },
+    "faces": [
+      {
+        "font-family": "JetBrains Mono",
+        "src": [{ "url": "/fonts/JetBrainsMono.ttf", "format": "ttf" }]
+      }
+    ],
+    "general": "JetBrains Mono, sans",
+    "monospace": "'JetBrains Mono', monospace"
+  },
   "colors": {
     "accent-color": "#2b292d",
     "primary-color": "#fecdb2",
@@ -19,7 +19,7 @@
     "sidebar-color": "#2b292d",
     "roomlist-background-color": "#383539",
     "roomlist-text-color": "#fecdb2",
-    "roomlist-text-secondary-color": "#b1b695",
+    "roomlist-text-secondary-color": "#fecdb2",
     "roomlist-highlights-color": "#2b292d",
     "roomlist-separator-color": "#4d424b",
     "timeline-background-color": "#2b292d",
@@ -44,10 +44,6 @@
       "#d1d1e0",
       "#fecdb2"
     ],
-    "avatar-background-colors": [
-      "#2b292d",
-      "#b1b695",
-      "#ffa07a"
-    ]
+    "avatar-background-colors": ["#2b292d", "#b1b695", "#ffa07a"]
   }
 }
